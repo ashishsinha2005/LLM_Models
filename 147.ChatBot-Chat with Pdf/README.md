@@ -1,6 +1,8 @@
 
 ## Intelligent Intercompany Agreement Knowledge Chatbot
 
+![Logo](https://github.com/ashishsinha2005/LLM_Models/blob/main/147.ChatBot-Chat%20with%20Pdf/Screenshot%202024-12-27%20023419.png)
+
 ## 1. Document Preprocessing and Key Information Extraction:
 
 - Uploaded PDFs are preprocessed using a PDF loader to extract their content. The extracted content is split into manageable chunks using text-splitting techniques (chunk size of 5000 with an overlap of 500). This ensures efficient retrieval of relevant information without losing context.
