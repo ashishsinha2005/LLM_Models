@@ -1,0 +1,9 @@
+gradio
+langchain
+accelerate
+sentence_transformers
+pypdf
+tiktoken
+faiss-gpu 
+accelerate
+bitsandbytes
