@@ -20,3 +20,5 @@
 ## Result:
 -  The solution improved resource utilization by 25%, enabling more efficient allocation of workloads. 
 - Additionally, it reduced operational expenses by 15%, leading to faster project deliveries and enhanced service quality.
+
+  ![image alt](https://github.com/ashishsinha2005/LLM_Models/blob/main/165.Reinforcement_Learning/proj_37.jpg)
