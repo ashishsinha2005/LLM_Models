@@ -22,6 +22,7 @@ The Indexing in GitHub Corresponds to Indexing in my local system.
 | 5 | 149 | Code Assistant Implementation
 | 6 | 163 | PDF Interaction LLM
 | 7 | 165 | Reinforcement Learning
+| 8 | 169 | Nvidia-Q&A_PDF
 
 
 
