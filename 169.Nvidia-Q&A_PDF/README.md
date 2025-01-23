@@ -20,3 +20,5 @@
 ## Result:
 -  Reduced query resolution time by 40%, saving over 20 hours per week in manual analysis efforts.
 - The solution significantly improved the efficiency of document retrieval and enhanced overall
+
+![image alt](https://github.com/ashishsinha2005/LLM_Models/blob/main/169.Nvidia-Q%26A_PDF/proj_38.jpg)
