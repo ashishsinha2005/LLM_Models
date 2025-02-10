@@ -1,0 +1,1 @@
+# Audio-transcript-and-translator-using-Open-AI-model-Whispher-

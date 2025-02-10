@@ -1,0 +1,7 @@
+transformers 
+biopython
+TensorFlow
+torch
+flask
+streamlit
+tf-keras
