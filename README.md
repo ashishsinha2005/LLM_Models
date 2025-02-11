@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/864ee12d-f26d-4d8c-871b-301741954ee8)
+
 ## LLM Models
 
 This Repository has the Following Models related to Various statistical Models.
